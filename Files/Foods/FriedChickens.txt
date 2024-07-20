@@ -1,0 +1,3 @@
+31 MegaChickenBox 180000T 8Pieces,4Fillets,FrenchFries,CheddarCheese 40Minutes
+32 ChickenBox 98000T 6Pieces,FrenchFries,CheddarCheese 30Minutes
+33 ChickenFingers 78000T 4Fillets,FrenchFries,CheddarCheese 24Minutes

@@ -1,0 +1,12 @@
+11 Special 90000T 
+12 Peproni 78000T 
+13 Chicken 69000T 
+21 KingBurger 87000T 
+22 MeatBurger 78000T 
+23 ChikBurger 72000T 
+31 MegaChickenBox 180000T 
+32 ChickenBox 98000T 
+33 ChickenFingers 78000T 
+41 Mojito 18000T 
+42 CocaCola 5000T 
+43 SodaWater 3000T 

@@ -1,0 +1,3 @@
+21 KingBurger 87000T 2Hamburgers,Cheese,Merguez,Mushrooms 24Minutes
+22 MeatBurger 78000T Hamburger,GodaCheese,SpecialSauce 15Minutes
+23 ChikBurger 72000T 2FrideChickens,Cheese,SpecialSauce 20Minutes
